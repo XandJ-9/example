@@ -1,5 +1,5 @@
 {
-  "name": "Attendance Management System",
-  "description": "A backend management system for employee attendance, leave, business trips, and monthly summaries.",
+  "name": "Admin Management System",
+  "description": "A basic background management system with user and role management modules.",
   "requestFramePermissions": []
 }
